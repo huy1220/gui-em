@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Bị mơ ngủ à ??',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại không trả tiền anh',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Vì đẹp của anh làm em ngây ngất',
+    reply: 'Vì vẻ đẹp của anh làm em ngây ngất',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Còn đợi gì mà không nhắn tin cho anh :v.',
     btnAccept: 'Okiiiii lun <3',
